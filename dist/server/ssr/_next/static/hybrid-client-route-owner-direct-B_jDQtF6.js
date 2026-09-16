@@ -1,0 +1,1 @@
+import{r as e}from"./domain-locale-DHd-4jRb.js";e(),e();
